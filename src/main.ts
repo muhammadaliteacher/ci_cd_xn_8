@@ -8,4 +8,4 @@ async function bootstrap() {
     console.log('Working: ' + PORT);
   });
 }
-bootstrap();
+void bootstrap();
